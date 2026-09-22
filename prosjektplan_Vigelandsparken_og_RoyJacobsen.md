@@ -10,7 +10,7 @@ Hver gruppe skal levere:
 2. En kort video som inngår i nettstedet.
 3. En visuell designmanual for prosjektet.
 
-Prosessen skal synliggjøres gjennom prosjektplan, treatment, kundemøter, versjoner og presentasjoner. Elevene skal ikke levere inn arbeidslogg.
+Prosessen skal synliggjøres gjennom prosjektplan, treatment / prosjektbeskrivelse, kundemøter, versjoner og presentasjoner. Elevene skal ikke levere inn arbeidslogg.
 
 ## Oppdraget slik det kan presenteres for elevene
 
@@ -43,7 +43,7 @@ Elevene skal kunne:
 - bruke grunnleggende HTML og CSS, og eventuelt enkel JavaScript som utvidelse
 - bruke typografi, farger, kontrast, layout og visuelle virkemidler bevisst
 - lage en enkel designmanual med regler for visuell profil
-- skrive treatment, manus og pitch
+- skrive treatment / prosjektbeskrivelse, manus og pitch
 - bruke grunnleggende dramaturgi og historiefortelling i video og nettsted
 - gjøre opptak med hensiktsmessige bilde- og lydinnstillinger
 - redigere en kort video og bygge den inn i et nettsted
@@ -63,7 +63,7 @@ Elevene skal kunne:
 
 ## Obligatoriske leveranser
 
-### 1. Prosjektplan og treatment
+### 1. Prosjektplan og treatment / prosjektbeskrivelse
 
 Bør inneholde:
 
@@ -79,7 +79,7 @@ Bør inneholde:
 - plan for utstyr, kilder og innhold
 - hva gruppa trenger tilbakemelding på
 
-Treatmentet kan presenteres som et kort dokument eller en ryddig presentasjon. Det skal være grunnlaget for pitchen.
+Treatmentet / prosjektbeskrivelsen kan presenteres som et kort dokument eller en ryddig presentasjon. Det skal være grunnlaget for pitchen.
 
 ### 2. Nettsted
 
@@ -144,14 +144,14 @@ Totalt: 50 skoletimer. Tabellen er en ramme og kan justeres etter klassens timep
 4. Idémyldring: Hva skal nettstedet inneholde, og hvilket perspektiv er interessant?
 5. Miniundervisning i målgruppe, avsender, mottaker og budskap.
 6. Gruppeetablering og rollekontrakt.
-7. Miniundervisning i pitch, treatment og baklengs planlegging.
+7. Miniundervisning i pitch, treatment / prosjektbeskrivelse og baklengs planlegging.
 8. Skisser på papir av sideoppsett og brukerflyt.
 9. Miniundervisning i typografi, farge, kontrast og visuell historiefortelling.
-10. Grupper lager prosjektplan og treatment.
+10. Grupper lager prosjektplan og treatment / prosjektbeskrivelse.
 11. Forberedelse til første kundemøte: pitch og presentasjon av prosjektplan.
 12. Første kundemøte med Klaus, Edita og eventuelt Christian. Gruppen presenterer idé, pitch og prosjektplan.
 13. Gruppen noterer tilbakemeldinger og forbedringsforslag fra kundemøtet.
-14. Revidering av idé, prosjektplan og treatment.
+14. Revidering av idé, prosjektplan og treatment / prosjektbeskrivelse.
 
 **Milepæl:** Gruppen har presentert idé og prosjektplan i første kundemøte og har en tydelig plan for videre arbeid.
 
@@ -212,7 +212,7 @@ Gruppen skal:
 
 - presentere idé og målgruppe
 - forklare budskap, innhold og ønsket mottaker
-- presentere prosjektplan, treatment og foreløpig tidsplan
+- presentere prosjektplan, treatment / prosjektbeskrivelse og foreløpig tidsplan
 - vise eventuelle skisser av nettsted og visuell retning
 - forklare hva gruppen trenger av avklaringer
 
@@ -260,14 +260,14 @@ Et mulig vektingsforslag er 20 % idé og faglig innhold, 25 % nettsted, 15 % vid
 - Definer en maksimal videolengde, for eksempel 2–4 minutter.
 - Avklar regler for foto, intervju, samtykke, personvern og bruk av musikk/bilder.
 - Sørg for en enkel minimumsløsning dersom teknikken svikter: tre sider, tekst/bilder, innebygd video og designmanual.
-- Lag felles maler for prosjektplan, treatment, designmanual og egenvurdering.
+- Lag felles maler for prosjektplan, treatment / prosjektbeskrivelse, designmanual og egenvurdering.
 - Planlegg korte lærerstyrte fagøkter i stedet for lange forelesninger.
 - Legg inn tre kundemøter: pitch og prosjektplan, status og prosess, og ferdig produkt.
 
 ## Forslag til forbedringer av opplegget
 
 1. Bruk en tydelig bestilling med målgruppe og mottaker fra første dag. Det gjør det lettere å ta valg og hindrer at gruppene lager noe bare for seg selv.
-2. Krev en godkjent treatment før elevene begynner å produsere. Det reduserer risikoen for at gruppene starter for bredt.
+2. Krev en godkjent treatment / prosjektbeskrivelse før elevene begynner å produsere. Det reduserer risikoen for at gruppene starter for bredt.
 3. Bruk en minimumsløsning og valgfrie utvidelser. Da kan alle komme i mål, samtidig som sterke grupper kan arbeide videre med JavaScript, skjema eller interaktivitet.
 4. La elevene teste en tidlig prototype på en annen gruppe. Det gir mer relevant tilbakemelding enn bare lærerveiledning.
 5. Vurder individuell innsats i tillegg til gruppeproduktet gjennom deltakelse i kundemøter og refleksjon.
